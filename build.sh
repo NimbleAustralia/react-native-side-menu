@@ -1,2 +1,2 @@
-babel index.js > build/index.js
-babel styles.js > build/styles.js
+npx babel index.js > build/index.js
+npx babel styles.js > build/styles.js
